@@ -5,6 +5,7 @@
 Steps:
 - Data Loading
 - Data Wrangling & Cleaning
+- Exploratory Data Analysis
 - Preprocessing (Lebeling & Standarization)
 - Data Splitting
 - Modelling
