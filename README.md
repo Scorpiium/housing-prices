@@ -89,7 +89,7 @@ results = {
 
 ### Metrik yang Digunakan
 
-- **RMSE** = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 }$$
+- **RMSE** = $$\sqrt{ \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 }$$
 
 - **R² Score**:
 Mengukur proporsi variasi harga rumah yang berhasil dijelaskan oleh model.
