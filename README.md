@@ -107,3 +107,4 @@ Mengukur proporsi variasi harga rumah yang berhasil dijelaskan oleh model.
 ## Kesimpulan
 - Model regresi berbasis Random Forest dan Gradient Boosting memberikan performa terbaik dalam memprediksi harga rumah, dengan nilai RMSE dan R² yang cukup rendah.
 - Model Support Vector Machine memiliki performa yang lebih buruk dengan nilai RMSE yang palingi tingg dan nilai R² yang mencapai negatif, menunjukkan model tidak dapat menangkap pola dalam data.
+- Hasil inferensi menunjukkan model SVM unggul dikarenakan seluruh persebaran prediksi harga tetap pada angka `4.290984e+06`.
