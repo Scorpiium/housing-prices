@@ -42,7 +42,7 @@ Dataset berasal dari [Kaggle: Housing Prices Dataset](https://www.kaggle.com/dat
 ### EDA (Exploratory Data Analysis)
 - Visualisasi distribusi numerik dilakukan dengan histogram.
 - Korelasi antar fitur numerik divisualisasikan menggunakan heatmap.
-- Insight awal menunjukkan fitur seperti `area` dan `bathrooms` memiliki korelasi paling tinggi terhadap `price `.
+- Insight awal menunjukkan fitur seperti `area` dan `bathrooms` memiliki korelasi paling tinggi terhadap `price`.
 
 ![heatmap](images/eda_heatmap.png) 
 
