@@ -91,7 +91,7 @@ results = {
 
 - **RMSE**:
 \[
-RMSE = \sqrt{ rac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 }
+$$\text{RMSE} = \sqrt{ \frac{1}{n} \sum_{i=1}^{n} (y_i - \hat{y}_i)^2 }$$
 \]
 
 - **R² Score**:
